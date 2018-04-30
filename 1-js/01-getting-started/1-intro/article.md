@@ -13,9 +13,9 @@ Scripty jsou poskytovány a spouštěny jako prostý text. Nepotřebují k běhu
 V tomto aspektu je Javascript velmi odlišný od jazyku [Java](http://en.wikipedia.org/wiki/Java).
 
 ```smart header="Proč <u>Java</u>Script?"
-Když byl Javascript vytvořen, jeho původní jmého bylo "LiveScript". Ale jazyk Java byl v té době natolik populární, že bylo rozhodnuto o názvu Javascript, kterému by, jakožto "mladším bratru", mohlo toto spojení pomoci.
+Když byl Javascript vytvořen, jeho původní jméno bylo "LiveScript". Ale jazyk Java byl v té době natolik populární, že bylo rozhodnuto o názvu Javascript, kterému by, jakožto "mladším bratru", mohlo toto spojení pomoci.
 
-Ale postupným vývojem vyspěl Javascript do plně nezávyslého jazyku, se svou vlastní specifikací zvanou [ECMAScript](http://en.wikipedia.org/wiki/ECMAScript), a nyní nemá žádnou spojitost s Javou.
+Ale postupným vývojem vyspěl Javascript do plně nezávislého jazyku, se svou vlastní specifikací zvanou [ECMAScript](http://en.wikipedia.org/wiki/ECMAScript), a nyní nemá žádnou spojitost s Javou.
 ```
 
 At present, JavaScript can execute not only in the browser, but also on the server, or actually on any device where there exists a special program called [the JavaScript engine](https://en.wikipedia.org/wiki/JavaScript_engine).
