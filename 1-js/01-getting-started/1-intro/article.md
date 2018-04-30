@@ -1,21 +1,21 @@
-# An Introduction to JavaScript
+# Úvod do JavaScriptu
 
-Let's see what's so special about JavaScript, what we can achieve with it and which other technologies play well with it.
+Pojďme se podívat na speciality Javascriptu, čeho s ním lze dosáhnout a jaké další technologie s ním skvěle spolupracují.
 
-## What is JavaScript?
+## Co je JavaScript?
 
-*JavaScript* was initially created to *"make webpages alive"*.
+*JavaScript* byl původně vytvořen pro *"tvoření živých webových stránek"*.
 
-The programs in this language are called *scripts*. They can be written right in the HTML and execute automatically as the page loads.
+Programy v tomto jazyce se nazývají *scripty*. Mohou být napsány přímo v HTML a automaticky spuštěny při načtení stránky.
 
-Scripts are provided and executed as a plain text. They don't need a special preparation or a compilation to run.
+Scripty jsou poskytovány a spouštěny jako prostý text. Nepotřebují k běhu speciální přípravu nebo kompilaci.
 
-In this aspect, JavaScript is very different from another language called [Java](http://en.wikipedia.org/wiki/Java).
+V tomto aspektu je Javascript velmi odlišný od jazyku [Java](http://en.wikipedia.org/wiki/Java).
 
-```smart header="Why <u>Java</u>Script?"
-When JavaScript was created, it initially had another name: "LiveScript". But Java language was very popular at that time, so it was decided that positioning a new language as a "younger brother" of Java would help.
+```smart header="Proč <u>Java</u>Script?"
+Když byl Javascript vytvořen, jeho původní jmého bylo "LiveScript". Ale jazyk Java byl v té době natolik populární, že bylo rozhodnuto o názvu Javascript, kterému by, jakožto "mladším bratru", mohlo toto spojení pomoci.
 
-But as it evolved, JavaScript became a fully independent language, with its own specification called [ECMAScript](http://en.wikipedia.org/wiki/ECMAScript), and now it has no relation to Java at all.
+Ale postupným vývojem vyspěl Javascript do plně nezávyslého jazyku, se svou vlastní specifikací zvanou [ECMAScript](http://en.wikipedia.org/wiki/ECMAScript), a nyní nemá žádnou spojitost s Javou.
 ```
 
 At present, JavaScript can execute not only in the browser, but also on the server, or actually on any device where there exists a special program called [the JavaScript engine](https://en.wikipedia.org/wiki/JavaScript_engine).
