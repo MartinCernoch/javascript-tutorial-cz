@@ -10,7 +10,7 @@ Programy v tomto jazyce se nazývají *scripty*. Mohou být napsány přímo v H
 
 Scripty jsou poskytovány a spouštěny jako prostý text. Nepotřebují k běhu speciální přípravu nebo kompilaci.
 
-V tomto aspektu je Javascript velmi odlišný od jazyku [Java](http://en.wikipedia.org/wiki/Java).
+V tomto aspektu je Javascript velmi odlišný od [Javy](http://en.wikipedia.org/wiki/Java).
 
 ```smart header="Proč <u>Java</u>Script?"
 Když byl Javascript vytvořen, jeho původní jméno bylo "LiveScript". Ale jazyk Java byl v té době natolik populární, že bylo rozhodnuto o názvu Javascript, kterému by, jakožto "mladším bratru", mohlo toto spojení pomoci.
