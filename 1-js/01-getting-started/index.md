@@ -1,3 +1,3 @@
-# An introduction
+# Úvod
 
-About the JavaScript language and the environment to develop with it.
+O jazyce Javascript a vhodněm vývojovém prostředí.
